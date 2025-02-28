@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/7d7711060cc84ce5933b267f8113b72e/artifacts
+end_time: 1740656832636
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 7d7711060cc84ce5933b267f8113b72e
+run_name: Gradient Boosting Classifier
+run_uuid: 7d7711060cc84ce5933b267f8113b72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740656832125
+status: 3
+tags: []
+user_id: nat93

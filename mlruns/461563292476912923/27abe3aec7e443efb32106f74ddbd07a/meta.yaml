@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/27abe3aec7e443efb32106f74ddbd07a/artifacts
+end_time: 1740668621745
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 27abe3aec7e443efb32106f74ddbd07a
+run_name: Decision Tree Classifier
+run_uuid: 27abe3aec7e443efb32106f74ddbd07a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740668621406
+status: 3
+tags: []
+user_id: nat93

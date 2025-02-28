@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/ae24338e9e704707a11108845198866f/artifacts
+end_time: 1740731191439
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: ae24338e9e704707a11108845198866f
+run_name: Light Gradient Boosting Machine
+run_uuid: ae24338e9e704707a11108845198866f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740731191033
+status: 3
+tags: []
+user_id: nat93

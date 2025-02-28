@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/9c51f499f09e4c3eadafc476781dd91b/artifacts
+end_time: 1740646181119
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 9c51f499f09e4c3eadafc476781dd91b
+run_name: Session Initialized 5365
+run_uuid: 9c51f499f09e4c3eadafc476781dd91b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740646072676
+status: 3
+tags: []
+user_id: nat93

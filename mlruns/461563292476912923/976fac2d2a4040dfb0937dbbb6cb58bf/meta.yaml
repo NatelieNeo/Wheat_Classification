@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/976fac2d2a4040dfb0937dbbb6cb58bf/artifacts
+end_time: 1740640632566
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 976fac2d2a4040dfb0937dbbb6cb58bf
+run_name: Dummy Classifier
+run_uuid: 976fac2d2a4040dfb0937dbbb6cb58bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740640632184
+status: 3
+tags: []
+user_id: nat93

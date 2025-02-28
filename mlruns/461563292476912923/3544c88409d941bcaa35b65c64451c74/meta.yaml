@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/3544c88409d941bcaa35b65c64451c74/artifacts
+end_time: 1740651492209
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 3544c88409d941bcaa35b65c64451c74
+run_name: Linear Discriminant Analysis
+run_uuid: 3544c88409d941bcaa35b65c64451c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740651491850
+status: 3
+tags: []
+user_id: nat93

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/44bf2b3e19a549bdac0d50fa6e7de435/artifacts
+end_time: 1740656391213
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 44bf2b3e19a549bdac0d50fa6e7de435
+run_name: Random Forest Classifier
+run_uuid: 44bf2b3e19a549bdac0d50fa6e7de435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740656390793
+status: 3
+tags: []
+user_id: nat93

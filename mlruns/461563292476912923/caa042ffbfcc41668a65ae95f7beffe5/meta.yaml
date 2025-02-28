@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/caa042ffbfcc41668a65ae95f7beffe5/artifacts
+end_time: 1740645541540
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: caa042ffbfcc41668a65ae95f7beffe5
+run_name: Ridge Classifier
+run_uuid: caa042ffbfcc41668a65ae95f7beffe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740645541103
+status: 3
+tags: []
+user_id: nat93

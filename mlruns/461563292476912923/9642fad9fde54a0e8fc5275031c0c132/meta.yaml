@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/9642fad9fde54a0e8fc5275031c0c132/artifacts
+end_time: 1740646387131
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 9642fad9fde54a0e8fc5275031c0c132
+run_name: Extra Trees Classifier
+run_uuid: 9642fad9fde54a0e8fc5275031c0c132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740646386720
+status: 3
+tags: []
+user_id: nat93

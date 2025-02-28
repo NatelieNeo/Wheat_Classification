@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/4cc55b7ead0b4f5eb2700d6d5fdacedd/artifacts
+end_time: 1740655379984
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 4cc55b7ead0b4f5eb2700d6d5fdacedd
+run_name: SVM - Linear Kernel
+run_uuid: 4cc55b7ead0b4f5eb2700d6d5fdacedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740655379467
+status: 3
+tags: []
+user_id: nat93

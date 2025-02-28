@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/bead230760774bdfaf1fd79b2b1e52f9/artifacts
+end_time: 1740656392533
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: bead230760774bdfaf1fd79b2b1e52f9
+run_name: CatBoost Classifier
+run_uuid: bead230760774bdfaf1fd79b2b1e52f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740656392170
+status: 3
+tags: []
+user_id: nat93

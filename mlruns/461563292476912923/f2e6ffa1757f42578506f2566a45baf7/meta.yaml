@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/f2e6ffa1757f42578506f2566a45baf7/artifacts
+end_time: 1740655974697
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: f2e6ffa1757f42578506f2566a45baf7
+run_name: Ada Boost Classifier
+run_uuid: f2e6ffa1757f42578506f2566a45baf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740655974228
+status: 3
+tags: []
+user_id: nat93

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/461563292476912923
+creation_time: 1740638302277
+experiment_id: '461563292476912923'
+last_update_time: 1740638302277
+lifecycle_stage: active
+name: wheat_classification

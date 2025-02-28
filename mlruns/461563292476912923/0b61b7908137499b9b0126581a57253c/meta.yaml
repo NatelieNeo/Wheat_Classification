@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/0b61b7908137499b9b0126581a57253c/artifacts
+end_time: 1740668618506
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 0b61b7908137499b9b0126581a57253c
+run_name: Quadratic Discriminant Analysis
+run_uuid: 0b61b7908137499b9b0126581a57253c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740668618202
+status: 3
+tags: []
+user_id: nat93
