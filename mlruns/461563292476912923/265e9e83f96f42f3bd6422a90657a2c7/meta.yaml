@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/265e9e83f96f42f3bd6422a90657a2c7/artifacts
+end_time: 1740834281134
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 265e9e83f96f42f3bd6422a90657a2c7
+run_name: K Neighbors Classifier
+run_uuid: 265e9e83f96f42f3bd6422a90657a2c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740834280290
+status: 3
+tags: []
+user_id: nat93

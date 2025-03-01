@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/461563292476912923/41c730ca9a584846902bb0da8a5742a3/artifacts
+end_time: 1740834278929
+entry_point_name: ''
+experiment_id: '461563292476912923'
+lifecycle_stage: active
+run_id: 41c730ca9a584846902bb0da8a5742a3
+run_name: Extreme Gradient Boosting
+run_uuid: 41c730ca9a584846902bb0da8a5742a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740834278111
+status: 3
+tags: []
+user_id: nat93
