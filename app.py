@@ -70,7 +70,7 @@ st.markdown(
     """
     <div style="text-align: center;">
         <hr>
-        <p>🛠️ Developed by <b>[Your Name]</b></p>
+        <p>🛠️ Developed by <b>Natelie</b></p>
         <p>📅 Project: AI Wheat Classification</p>
     </div>
     """,
